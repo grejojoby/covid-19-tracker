@@ -1,6 +1,11 @@
 # COVID-19 Tracker using React
 Displays graph for COVID-19 data which is fetched using API. The graphs show the global figures as well as the country wise data. It shows the number of infected, recovered and deaths for all the countries as well as the global figures. The app is built using React.
 
+![Image1](https://github.com/grejo-joby/covid-19-tracker/blob/master/images/CovidSS1.png)
+![Image2](https://github.com/grejo-joby/covid-19-tracker/blob/master/images/Covidss2.png)
+
+
+
 ## How to run the app?
 In the project directory, you can run:
 ### `npm start`
